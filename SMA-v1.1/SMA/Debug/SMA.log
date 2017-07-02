@@ -1,0 +1,110 @@
+﻿빌드 시작: 2015-02-04 오후 5:16:40
+     1>2 노드의 "E:\Dropbox\개발\KETI\안승수\스키과제\안승수\SMA프로젝트\소스코드\SMA\SMA\SMA.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\SMA.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt SMA.cpp
+         SMA.cpp
+     1>e:\dropbox\개발\keti\안승수\스키과제\안승수\sma프로젝트\소스코드\sma\sma\sma.cpp(187): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>e:\dropbox\개발\keti\안승수\스키과제\안승수\sma프로젝트\소스코드\sma\sma\sma.cpp(552): warning C4244: '초기화 중' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>e:\dropbox\개발\keti\안승수\스키과제\안승수\sma프로젝트\소스코드\sma\sma\sma.cpp(607): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>e:\dropbox\개발\keti\안승수\스키과제\안승수\sma프로젝트\소스코드\sma\sma\sma.cpp(608): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>e:\dropbox\개발\keti\안승수\스키과제\안승수\sma프로젝트\소스코드\sma\sma\sma.cpp(609): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>e:\dropbox\개발\keti\안승수\스키과제\안승수\sma프로젝트\소스코드\sma\sma\sma.cpp(611): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>e:\dropbox\개발\keti\안승수\스키과제\안승수\sma프로젝트\소스코드\sma\sma\sma.cpp(612): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>e:\dropbox\개발\keti\안승수\스키과제\안승수\sma프로젝트\소스코드\sma\sma\sma.cpp(614): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>e:\dropbox\개발\keti\안승수\스키과제\안승수\sma프로젝트\소스코드\sma\sma\sma.cpp(615): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>e:\dropbox\개발\keti\안승수\스키과제\안승수\sma프로젝트\소스코드\sma\sma\sma.cpp(617): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>e:\dropbox\개발\keti\안승수\스키과제\안승수\sma프로젝트\소스코드\sma\sma\sma.cpp(618): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>e:\dropbox\개발\keti\안승수\스키과제\안승수\sma프로젝트\소스코드\sma\sma\sma.cpp(620): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>e:\dropbox\개발\keti\안승수\스키과제\안승수\sma프로젝트\소스코드\sma\sma\sma.cpp(621): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>e:\dropbox\개발\keti\안승수\스키과제\안승수\sma프로젝트\소스코드\sma\sma\sma.cpp(628): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>e:\dropbox\개발\keti\안승수\스키과제\안승수\sma프로젝트\소스코드\sma\sma\sma.cpp(631): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>e:\dropbox\개발\keti\안승수\스키과제\안승수\sma프로젝트\소스코드\sma\sma\sma.cpp(648): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>e:\dropbox\개발\keti\안승수\스키과제\안승수\sma프로젝트\소스코드\sma\sma\sma.cpp(660): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>e:\dropbox\개발\keti\안승수\스키과제\안승수\sma프로젝트\소스코드\sma\sma\sma.cpp(731): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>e:\dropbox\개발\keti\안승수\스키과제\안승수\sma프로젝트\소스코드\sma\sma\sma.cpp(738): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>e:\dropbox\개발\keti\안승수\스키과제\안승수\sma프로젝트\소스코드\sma\sma\sma.cpp(873): warning C4244: 'return' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Dropbox\개발\KETI\안승수\스키과제\안승수\SMA프로젝트\소스코드\SMA\Debug\SMA.exe" /INCREMENTAL /NOLOGO kinect20.lib opencv_core245.lib opencv_highgui245.lib opencv_imgproc245.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Dropbox\개발\KETI\안승수\스키과제\안승수\SMA프로젝트\소스코드\SMA\Debug\SMA.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Dropbox\개발\KETI\안승수\스키과제\안승수\SMA프로젝트\소스코드\SMA\Debug\SMA.lib" /MACHINE:X86 Debug\SMA.obj
+         Debug\stdafx.obj
+     1>SMA.obj : error LNK2019: _cvCreateImageHeader 외부 기호(참조 위치: "void __cdecl getDepthFrame(void)" (?getDepthFrame@@YAXXZ) 함수)에서 확인하지 못했습니다.
+     1>SMA.obj : error LNK2019: _cvCreateImage 외부 기호(참조 위치: "void __cdecl initProgram(void)" (?initProgram@@YAXXZ) 함수)에서 확인하지 못했습니다.
+     1>SMA.obj : error LNK2019: _cvReleaseImageHeader 외부 기호(참조 위치: "void __cdecl getDepthFrame(void)" (?getDepthFrame@@YAXXZ) 함수)에서 확인하지 못했습니다.
+     1>SMA.obj : error LNK2019: _cvReleaseImage 외부 기호(참조 위치: "void __cdecl exitProgram(void)" (?exitProgram@@YAXXZ) 함수)에서 확인하지 못했습니다.
+     1>SMA.obj : error LNK2019: _cvCopy 외부 기호(참조 위치: "void __cdecl getDepthFrame(void)" (?getDepthFrame@@YAXXZ) 함수)에서 확인하지 못했습니다.
+     1>SMA.obj : error LNK2019: _cvSetZero 외부 기호(참조 위치: "void __cdecl processFrame(void)" (?processFrame@@YAXXZ) 함수)에서 확인하지 못했습니다.
+     1>SMA.obj : error LNK2019: _cvMerge 외부 기호(참조 위치: "void __cdecl processFrame(void)" (?processFrame@@YAXXZ) 함수)에서 확인하지 못했습니다.
+     1>SMA.obj : error LNK2019: _cvCreateMemStorage 외부 기호(참조 위치: "void __cdecl initProgram(void)" (?initProgram@@YAXXZ) 함수)에서 확인하지 못했습니다.
+     1>SMA.obj : error LNK2019: _cvReleaseMemStorage 외부 기호(참조 위치: "void __cdecl exitProgram(void)" (?exitProgram@@YAXXZ) 함수)에서 확인하지 못했습니다.
+     1>SMA.obj : error LNK2019: _cvClearMemStorage 외부 기호(참조 위치: "void __cdecl processFrame(void)" (?processFrame@@YAXXZ) 함수)에서 확인하지 못했습니다.
+     1>SMA.obj : error LNK2019: _cvRectangle 외부 기호(참조 위치: "void __cdecl processFrame(void)" (?processFrame@@YAXXZ) 함수)에서 확인하지 못했습니다.
+     1>SMA.obj : error LNK2019: _cvCircle 외부 기호(참조 위치: "void __cdecl processFrame(void)" (?processFrame@@YAXXZ) 함수)에서 확인하지 못했습니다.
+     1>SMA.obj : error LNK2019: _cvInitFont 외부 기호(참조 위치: _cvFont 함수)에서 확인하지 못했습니다.
+     1>SMA.obj : error LNK2019: _cvPutText 외부 기호(참조 위치: "void __cdecl processFrame(void)" (?processFrame@@YAXXZ) 함수)에서 확인하지 못했습니다.
+     1>SMA.obj : error LNK2019: _cvDrawContours 외부 기호(참조 위치: "void __cdecl processFrame(void)" (?processFrame@@YAXXZ) 함수)에서 확인하지 못했습니다.
+     1>SMA.obj : error LNK2019: _cvResize 외부 기호(참조 위치: "void __cdecl getDepthFrame(void)" (?getDepthFrame@@YAXXZ) 함수)에서 확인하지 못했습니다.
+     1>SMA.obj : error LNK2019: _cvFindContours 외부 기호(참조 위치: "void __cdecl processFrame(void)" (?processFrame@@YAXXZ) 함수)에서 확인하지 못했습니다.
+     1>SMA.obj : error LNK2019: _cvContourArea 외부 기호(참조 위치: "void __cdecl processFrame(void)" (?processFrame@@YAXXZ) 함수)에서 확인하지 못했습니다.
+     1>SMA.obj : error LNK2019: _cvThreshold 외부 기호(참조 위치: "void __cdecl getBinary(struct _IplImage *)" (?getBinary@@YAXPAU_IplImage@@@Z) 함수)에서 확인하지 못했습니다.
+     1>SMA.obj : error LNK2019: _cvNamedWindow 외부 기호(참조 위치: "void __cdecl initProgram(void)" (?initProgram@@YAXXZ) 함수)에서 확인하지 못했습니다.
+     1>SMA.obj : error LNK2019: _cvShowImage 외부 기호(참조 위치: "void __cdecl processFrame(void)" (?processFrame@@YAXXZ) 함수)에서 확인하지 못했습니다.
+     1>SMA.obj : error LNK2019: _cvResizeWindow 외부 기호(참조 위치: "void __cdecl initProgram(void)" (?initProgram@@YAXXZ) 함수)에서 확인하지 못했습니다.
+     1>SMA.obj : error LNK2019: _cvDestroyAllWindows 외부 기호(참조 위치: "void __cdecl exitProgram(void)" (?exitProgram@@YAXXZ) 함수)에서 확인하지 못했습니다.
+     1>SMA.obj : error LNK2019: _cvCreateTrackbar 외부 기호(참조 위치: "void __cdecl initProgram(void)" (?initProgram@@YAXXZ) 함수)에서 확인하지 못했습니다.
+     1>SMA.obj : error LNK2019: _cvWaitKey 외부 기호(참조 위치: _wmain 함수)에서 확인하지 못했습니다.
+     1>SMA.obj : error LNK2019: __imp__GetCurrentDirectoryW@8 외부 기호(참조 위치: "void __cdecl readSettingsFromINI(void)" (?readSettingsFromINI@@YAXXZ) 함수)에서 확인하지 못했습니다.
+     1>SMA.obj : error LNK2019: __imp__GetTickCount@0 외부 기호(참조 위치: _wmain 함수)에서 확인하지 못했습니다.
+     1>SMA.obj : error LNK2019: __imp__GetPrivateProfileIntW@16 외부 기호(참조 위치: "void __cdecl readSettingsFromINI(void)" (?readSettingsFromINI@@YAXXZ) 함수)에서 확인하지 못했습니다.
+     1>SMA.obj : error LNK2019: _GetDefaultKinectSensor@4 외부 기호(참조 위치: "void __cdecl InitKinectV2(void)" (?InitKinectV2@@YAXXZ) 함수)에서 확인하지 못했습니다.
+     1>MSVCRTD.lib(atonexit.obj) : error LNK2019: __imp__EncodePointer@4 외부 기호(참조 위치: ___atonexitinit 함수)에서 확인하지 못했습니다.
+     1>MSVCRTD.lib(wcrtexe.obj) : error LNK2001: __imp__EncodePointer@4 외부 기호를 확인할 수 없습니다.
+     1>MSVCRTD.lib(atonexit.obj) : error LNK2019: __imp__DecodePointer@4 외부 기호(참조 위치: __onexit 함수)에서 확인하지 못했습니다.
+     1>MSVCRTD.lib(error.obj) : error LNK2019: __imp__IsDebuggerPresent@0 외부 기호(참조 위치: "void __cdecl failwithmessage(void *,int,int,char const *)" (?failwithmessage@@YAXPAXHHPBD@Z) 함수)에서 확인하지 못했습니다.
+     1>MSVCRTD.lib(gs_report.obj) : error LNK2001: __imp__IsDebuggerPresent@0 외부 기호를 확인할 수 없습니다.
+     1>MSVCRTD.lib(error.obj) : error LNK2019: __imp__RaiseException@16 외부 기호(참조 위치: "int __cdecl DebuggerProbe(unsigned long)" (?DebuggerProbe@@YAHK@Z) 함수)에서 확인하지 못했습니다.
+     1>MSVCRTD.lib(error.obj) : error LNK2019: __imp__GetLastError@0 외부 기호(참조 위치: "void __cdecl _RTC_AllocaFailure(void *,struct _RTC_ALLOCA_NODE *,int)" (?_RTC_AllocaFailure@@YAXPAXPAU_RTC_ALLOCA_NODE@@H@Z) 함수)에서 확인하지 못했습니다.
+     1>MSVCRTD.lib(pdblkup.obj) : error LNK2001: __imp__GetLastError@0 외부 기호를 확인할 수 없습니다.
+     1>MSVCRTD.lib(error.obj) : error LNK2019: __imp__GetProcAddress@8 외부 기호(참조 위치: "void __cdecl _RTC_AllocaFailure(void *,struct _RTC_ALLOCA_NODE *,int)" (?_RTC_AllocaFailure@@YAXPAXPAU_RTC_ALLOCA_NODE@@H@Z) 함수)에서 확인하지 못했습니다.
+     1>MSVCRTD.lib(pdblkup.obj) : error LNK2001: __imp__GetProcAddress@8 외부 기호를 확인할 수 없습니다.
+     1>MSVCRTD.lib(error.obj) : error LNK2019: __imp__LoadLibraryExW@12 외부 기호(참조 위치: "void __cdecl _RTC_AllocaFailure(void *,struct _RTC_ALLOCA_NODE *,int)" (?_RTC_AllocaFailure@@YAXPAXPAU_RTC_ALLOCA_NODE@@H@Z) 함수)에서 확인하지 못했습니다.
+     1>MSVCRTD.lib(pdblkup.obj) : error LNK2001: __imp__LoadLibraryExW@12 외부 기호를 확인할 수 없습니다.
+     1>MSVCRTD.lib(error.obj) : error LNK2019: __imp__lstrlenA@4 외부 기호(참조 위치: "void __cdecl _RTC_AllocaFailure(void *,struct _RTC_ALLOCA_NODE *,int)" (?_RTC_AllocaFailure@@YAXPAXPAU_RTC_ALLOCA_NODE@@H@Z) 함수)에서 확인하지 못했습니다.
+     1>MSVCRTD.lib(error.obj) : error LNK2019: __imp__LoadLibraryW@4 외부 기호(참조 위치: "void __cdecl _RTC_AllocaFailure(void *,struct _RTC_ALLOCA_NODE *,int)" (?_RTC_AllocaFailure@@YAXPAXPAU_RTC_ALLOCA_NODE@@H@Z) 함수)에서 확인하지 못했습니다.
+     1>MSVCRTD.lib(pdblkup.obj) : error LNK2001: __imp__LoadLibraryW@4 외부 기호를 확인할 수 없습니다.
+     1>MSVCRTD.lib(error.obj) : error LNK2019: __imp__MultiByteToWideChar@24 외부 기호(참조 위치: "void __cdecl failwithmessage(void *,int,int,char const *)" (?failwithmessage@@YAXPAXHHPBD@Z) 함수)에서 확인하지 못했습니다.
+     1>MSVCRTD.lib(error.obj) : error LNK2019: __imp__WideCharToMultiByte@32 외부 기호(참조 위치: "void __cdecl failwithmessage(void *,int,int,char const *)" (?failwithmessage@@YAXPAXHHPBD@Z) 함수)에서 확인하지 못했습니다.
+     1>MSVCRTD.lib(gs_report.obj) : error LNK2019: _IsProcessorFeaturePresent@4 외부 기호(참조 위치: ___report_gsfailure 함수)에서 확인하지 못했습니다.
+     1>MSVCRTD.lib(gs_support.obj) : error LNK2019: __imp__QueryPerformanceCounter@4 외부 기호(참조 위치: ___security_init_cookie 함수)에서 확인하지 못했습니다.
+     1>MSVCRTD.lib(gs_support.obj) : error LNK2019: __imp__GetCurrentThreadId@0 외부 기호(참조 위치: ___security_init_cookie 함수)에서 확인하지 못했습니다.
+     1>MSVCRTD.lib(gs_support.obj) : error LNK2019: __imp__GetSystemTimeAsFileTime@4 외부 기호(참조 위치: ___security_init_cookie 함수)에서 확인하지 못했습니다.
+     1>MSVCRTD.lib(gs_support.obj) : error LNK2019: __imp__GetTickCount64@0 외부 기호(참조 위치: ___security_init_cookie 함수)에서 확인하지 못했습니다.
+     1>MSVCRTD.lib(pdblkup.obj) : error LNK2019: __imp__HeapAlloc@12 외부 기호(참조 위치: "int __cdecl _RTC_GetSrcLine(unsigned char *,wchar_t *,unsigned long,int *,wchar_t *,unsigned long)" (?_RTC_GetSrcLine@@YAHPAEPA_WKPAH1K@Z) 함수)에서 확인하지 못했습니다.
+     1>MSVCRTD.lib(pdblkup.obj) : error LNK2019: __imp__HeapFree@12 외부 기호(참조 위치: "int __cdecl _RTC_GetSrcLine(unsigned char *,wchar_t *,unsigned long,int *,wchar_t *,unsigned long)" (?_RTC_GetSrcLine@@YAHPAEPA_WKPAH1K@Z) 함수)에서 확인하지 못했습니다.
+     1>MSVCRTD.lib(pdblkup.obj) : error LNK2019: __imp__GetProcessHeap@0 외부 기호(참조 위치: "int __cdecl _RTC_GetSrcLine(unsigned char *,wchar_t *,unsigned long,int *,wchar_t *,unsigned long)" (?_RTC_GetSrcLine@@YAHPAEPA_WKPAH1K@Z) 함수)에서 확인하지 못했습니다.
+     1>MSVCRTD.lib(pdblkup.obj) : error LNK2019: __imp__VirtualQuery@12 외부 기호(참조 위치: "int __cdecl _RTC_GetSrcLine(unsigned char *,wchar_t *,unsigned long,int *,wchar_t *,unsigned long)" (?_RTC_GetSrcLine@@YAHPAEPA_WKPAH1K@Z) 함수)에서 확인하지 못했습니다.
+     1>MSVCRTD.lib(pdblkup.obj) : error LNK2019: __imp__FreeLibrary@4 외부 기호(참조 위치: "struct HINSTANCE__ * __cdecl GetPdbDllFromInstallPath(void)" (?GetPdbDllFromInstallPath@@YAPAUHINSTANCE__@@XZ) 함수)에서 확인하지 못했습니다.
+     1>MSVCRTD.lib(pdblkup.obj) : error LNK2019: __imp__GetModuleFileNameW@12 외부 기호(참조 위치: "struct HINSTANCE__ * __cdecl GetPdbDll(void)" (?GetPdbDll@@YAPAUHINSTANCE__@@XZ) 함수)에서 확인하지 못했습니다.
+     1>MSVCRTD.lib(pdblkup.obj) : error LNK2019: __imp__GetModuleHandleW@4 외부 기호(참조 위치: "struct HINSTANCE__ * __cdecl GetPdbDll(void)" (?GetPdbDll@@YAPAUHINSTANCE__@@XZ) 함수)에서 확인하지 못했습니다.
+     1>E:\Dropbox\개발\KETI\안승수\스키과제\안승수\SMA프로젝트\소스코드\SMA\Debug\SMA.exe : fatal error LNK1120: 52개의 확인할 수 없는 외부 참조입니다.
+     1>"E:\Dropbox\개발\KETI\안승수\스키과제\안승수\SMA프로젝트\소스코드\SMA\SMA\SMA.vcxproj" 프로젝트를 빌드했습니다(Build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:01.10
